@@ -1,0 +1,10 @@
+class Solution:
+    def findClosestNumber(self, nums):
+        prevMin = nums[0]
+
+        for n in nums:
+            if abs(n) < abs(prevMin) or (abs(n) == abs(prevMin) and n > prevMin):
+                prevMin = n
+
+        return prevMin
+        # time -- > O(n)
