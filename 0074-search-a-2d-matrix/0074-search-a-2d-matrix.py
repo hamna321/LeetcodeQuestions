@@ -3,9 +3,9 @@ class Solution:
 
         if target > matrix[-1][-1]: return False    # <-- #3
 
-        row = matrix[bisect_left(matrix, 
-                  target, key = lambda x: x[-1])]   # <-- #1
+        r = matrix[bisect_left(matrix, 
+                  target, key = lambda x: x[-1])]   # <-- #1   row = r and i = index
 
-        idx = bisect_left(row, target)              # <-- #2
+        i = bisect_left(r, target)              # <-- #2
 
-        return row[idx] == target
+        return r[i] == target
