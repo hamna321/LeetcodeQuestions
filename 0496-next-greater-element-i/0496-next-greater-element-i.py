@@ -6,8 +6,8 @@ class Solution(object):
         :rtype: List[int]
         """
         
-        def test(lst,n):
-            for x in lst:
+        def test(n2,n):
+            for x in n2:
                 if x > n:
                     return x
             return -1
