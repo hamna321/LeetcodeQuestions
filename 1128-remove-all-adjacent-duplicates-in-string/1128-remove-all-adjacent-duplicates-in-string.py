@@ -1,11 +1,11 @@
 class Solution:
     def removeDuplicates(self, s: str) -> str:
-        lis=[s[0]]
-        for i in range(1,len(s)):
-            if len(lis)==0 or lis[len(lis)-1]!=s[i]:
-                lis.append(s[i])
+        stack = []
+        for char in s:
+            if stack and stack[-1] == char:
+                stack.pop()
             else:
-                lis=lis[:len(lis)-1]        
-        s="".join(lis)
-        return s    
+                stack.append(char)
+        return ''.join(stack)
+
             
