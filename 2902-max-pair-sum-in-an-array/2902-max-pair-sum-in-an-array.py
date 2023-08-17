@@ -1,14 +1,18 @@
 class Solution:
     def maxSum(self, nums: List[int]) -> int:
-        max_by_digit = defaultdict(int)
-        max_sum = -1
+        mbd = defaultdict(int)
+        ms = -1
 
         for num in nums:
-            digit = max(str(num))
+            d = max(str(num))
 
-            if digit in max_by_digit:
-                max_sum = max(max_sum, max_by_digit[digit] + num)
+            if d in mbd:
+                ms = max(ms, mbd[d] + num)
 
-            max_by_digit[digit] = max(max_by_digit[digit], num)
+            mbd[d] = max(mbd[d], num)
 
-        return max_sum
+        return ms
+
+        # mbd max_by_digit
+        # max_sum
+        #d = digit
