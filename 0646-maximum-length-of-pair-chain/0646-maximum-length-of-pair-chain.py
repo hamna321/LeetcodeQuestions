@@ -2,7 +2,7 @@ class Solution:
     def findLongestChain(self, pairs: list[list[int]]) -> int:
 
         a, c = 0, (-inf)
-        pairs.sort(key = lambda x: x[1])
+        pairs.sort(key=itemgetter(1))
 
         for l, r in pairs:
             if l > c:
