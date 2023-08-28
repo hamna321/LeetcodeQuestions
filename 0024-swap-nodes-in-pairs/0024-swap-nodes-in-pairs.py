@@ -4,11 +4,11 @@
 #         self.val = val
 #         self.next = next
 class Solution:
-    def swapPairs(self, head):
+    def swapPairs(self, h):
 
-        if not(head and head.next): return head 
+        if not(h and h.next): return h 
+# new head    # h = head       
+        NH = h.next
+        h.next, NH.next = self.swapPairs(h.next.next), h
 
-        newHead = head.next
-        head.next, newHead.next = self.swapPairs(head.next.next), head
-
-        return newHead
+        return NH
