@@ -1,12 +1,9 @@
 class Solution:
     def generate(self, numRows: int) -> List[List[int]]:
-        
-        ans = [(row:= [1])]
-
-        for _ in range(1, numRows):
-
-            row = list(map(sum,pairwise([0]+row+[0])))
-            ans.append(row)
-
-        return ans
-        
+        triangle = []
+        for i in range(numRows):
+            row = [1] * (i + 1)
+            for j in range(1, i):
+                row[j] = triangle[i - 1][j - 1] + triangle[i - 1][j]
+            triangle.append(row)
+        return triangle
