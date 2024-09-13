@@ -21,4 +21,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/hamna321/Leetcode-Q-242/tree/master/0443-string-compression) |
+## Array
+|  |
+| ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/hamna321/Leetcode-Q-242/tree/master/1435-xor-queries-of-a-subarray) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/hamna321/Leetcode-Q-242/tree/master/1435-xor-queries-of-a-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/hamna321/Leetcode-Q-242/tree/master/1435-xor-queries-of-a-subarray) |
 <!---LeetCode Topics End-->
