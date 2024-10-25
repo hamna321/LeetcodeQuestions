@@ -5,14 +5,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0233-number-of-digit-one](https://github.com/hamna321/Leetcode-Q-242/tree/master/0233-number-of-digit-one) |
+| [1013-fibonacci-number](https://github.com/hamna321/Leetcode-Q-242/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0233-number-of-digit-one](https://github.com/hamna321/Leetcode-Q-242/tree/master/0233-number-of-digit-one) |
+| [1013-fibonacci-number](https://github.com/hamna321/Leetcode-Q-242/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0233-number-of-digit-one](https://github.com/hamna321/Leetcode-Q-242/tree/master/0233-number-of-digit-one) |
+| [1013-fibonacci-number](https://github.com/hamna321/Leetcode-Q-242/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/hamna321/Leetcode-Q-242/tree/master/1435-xor-queries-of-a-subarray) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/hamna321/Leetcode-Q-242/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
