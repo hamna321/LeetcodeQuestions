@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/hamna321/Leetcode-Q-242/tree/master/1435-xor-queries-of-a-subarray) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/hamna321/LeetcodeQuestions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -40,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/hamna321/Leetcode-Q-242/tree/master/1013-fibonacci-number) |
+## Greedy
+|  |
+| ------- |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/hamna321/LeetcodeQuestions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+## Sorting
+|  |
+| ------- |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/hamna321/LeetcodeQuestions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 <!---LeetCode Topics End-->
