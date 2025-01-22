@@ -30,11 +30,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/hamna321/Leetcode-Q-242/tree/master/1435-xor-queries-of-a-subarray) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/hamna321/LeetcodeQuestions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2705-minimum-impossible-or](https://github.com/hamna321/LeetcodeQuestions/tree/master/2705-minimum-impossible-or) |
+| [3044-minimum-operations-to-collect-elements](https://github.com/hamna321/LeetcodeQuestions/tree/master/3044-minimum-operations-to-collect-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/hamna321/Leetcode-Q-242/tree/master/1435-xor-queries-of-a-subarray) |
 | [2705-minimum-impossible-or](https://github.com/hamna321/LeetcodeQuestions/tree/master/2705-minimum-impossible-or) |
+| [3044-minimum-operations-to-collect-elements](https://github.com/hamna321/LeetcodeQuestions/tree/master/3044-minimum-operations-to-collect-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2705-minimum-impossible-or](https://github.com/hamna321/LeetcodeQuestions/tree/master/2705-minimum-impossible-or) |
+## Hash Table
+|  |
+| ------- |
+| [3044-minimum-operations-to-collect-elements](https://github.com/hamna321/LeetcodeQuestions/tree/master/3044-minimum-operations-to-collect-elements) |
 <!---LeetCode Topics End-->
