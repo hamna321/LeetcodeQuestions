@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0233-number-of-digit-one](https://github.com/hamna321/Leetcode-Q-242/tree/master/0233-number-of-digit-one) |
+| [0946-smallest-range-ii](https://github.com/hamna321/LeetcodeQuestions/tree/master/0946-smallest-range-ii) |
 | [1013-fibonacci-number](https://github.com/hamna321/Leetcode-Q-242/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0946-smallest-range-ii](https://github.com/hamna321/LeetcodeQuestions/tree/master/0946-smallest-range-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/hamna321/Leetcode-Q-242/tree/master/1435-xor-queries-of-a-subarray) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/hamna321/LeetcodeQuestions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2705-minimum-impossible-or](https://github.com/hamna321/LeetcodeQuestions/tree/master/2705-minimum-impossible-or) |
@@ -50,11 +52,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0946-smallest-range-ii](https://github.com/hamna321/LeetcodeQuestions/tree/master/0946-smallest-range-ii) |
 | [1502-construct-k-palindrome-strings](https://github.com/hamna321/LeetcodeQuestions/tree/master/1502-construct-k-palindrome-strings) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/hamna321/LeetcodeQuestions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Sorting
 |  |
 | ------- |
+| [0946-smallest-range-ii](https://github.com/hamna321/LeetcodeQuestions/tree/master/0946-smallest-range-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/hamna321/LeetcodeQuestions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Brainteaser
 |  |
