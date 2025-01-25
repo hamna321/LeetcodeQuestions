@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0233-number-of-digit-one](https://github.com/hamna321/Leetcode-Q-242/tree/master/0233-number-of-digit-one) |
 | [0946-smallest-range-ii](https://github.com/hamna321/LeetcodeQuestions/tree/master/0946-smallest-range-ii) |
+| [1010-powerful-integers](https://github.com/hamna321/LeetcodeQuestions/tree/master/1010-powerful-integers) |
 | [1013-fibonacci-number](https://github.com/hamna321/Leetcode-Q-242/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -69,12 +70,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1010-powerful-integers](https://github.com/hamna321/LeetcodeQuestions/tree/master/1010-powerful-integers) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/hamna321/LeetcodeQuestions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1502-construct-k-palindrome-strings](https://github.com/hamna321/LeetcodeQuestions/tree/master/1502-construct-k-palindrome-strings) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/hamna321/LeetcodeQuestions/tree/master/3044-minimum-operations-to-collect-elements) |
 ## Enumeration
 |  |
 | ------- |
+| [1010-powerful-integers](https://github.com/hamna321/LeetcodeQuestions/tree/master/1010-powerful-integers) |
 | [2870-longest-alternating-subarray](https://github.com/hamna321/LeetcodeQuestions/tree/master/2870-longest-alternating-subarray) |
 ## Concurrency
 |  |
