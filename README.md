@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0946-smallest-range-ii](https://github.com/hamna321/LeetcodeQuestions/tree/master/0946-smallest-range-ii) |
+| [1206-corporate-flight-bookings](https://github.com/hamna321/LeetcodeQuestions/tree/master/1206-corporate-flight-bookings) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/hamna321/LeetcodeQuestions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1435-xor-queries-of-a-subarray](https://github.com/hamna321/Leetcode-Q-242/tree/master/1435-xor-queries-of-a-subarray) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/hamna321/LeetcodeQuestions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1206-corporate-flight-bookings](https://github.com/hamna321/LeetcodeQuestions/tree/master/1206-corporate-flight-bookings) |
 | [1435-xor-queries-of-a-subarray](https://github.com/hamna321/Leetcode-Q-242/tree/master/1435-xor-queries-of-a-subarray) |
 ## Memoization
 |  |
