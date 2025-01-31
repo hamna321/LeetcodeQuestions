@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0233-number-of-digit-one](https://github.com/hamna321/Leetcode-Q-242/tree/master/0233-number-of-digit-one) |
 | [0946-smallest-range-ii](https://github.com/hamna321/LeetcodeQuestions/tree/master/0946-smallest-range-ii) |
+| [0994-prison-cells-after-n-days](https://github.com/hamna321/LeetcodeQuestions/tree/master/0994-prison-cells-after-n-days) |
 | [1010-powerful-integers](https://github.com/hamna321/LeetcodeQuestions/tree/master/1010-powerful-integers) |
 | [1013-fibonacci-number](https://github.com/hamna321/Leetcode-Q-242/tree/master/1013-fibonacci-number) |
 | [2811-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/hamna321/LeetcodeQuestions/tree/master/2811-determine-the-minimum-sum-of-a-k-avoiding-array) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0946-smallest-range-ii](https://github.com/hamna321/LeetcodeQuestions/tree/master/0946-smallest-range-ii) |
+| [0994-prison-cells-after-n-days](https://github.com/hamna321/LeetcodeQuestions/tree/master/0994-prison-cells-after-n-days) |
 | [1206-corporate-flight-bookings](https://github.com/hamna321/LeetcodeQuestions/tree/master/1206-corporate-flight-bookings) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/hamna321/LeetcodeQuestions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1435-xor-queries-of-a-subarray](https://github.com/hamna321/Leetcode-Q-242/tree/master/1435-xor-queries-of-a-subarray) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0994-prison-cells-after-n-days](https://github.com/hamna321/LeetcodeQuestions/tree/master/0994-prison-cells-after-n-days) |
 | [1435-xor-queries-of-a-subarray](https://github.com/hamna321/Leetcode-Q-242/tree/master/1435-xor-queries-of-a-subarray) |
 | [2705-minimum-impossible-or](https://github.com/hamna321/LeetcodeQuestions/tree/master/2705-minimum-impossible-or) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/hamna321/LeetcodeQuestions/tree/master/3044-minimum-operations-to-collect-elements) |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0994-prison-cells-after-n-days](https://github.com/hamna321/LeetcodeQuestions/tree/master/0994-prison-cells-after-n-days) |
 | [1010-powerful-integers](https://github.com/hamna321/LeetcodeQuestions/tree/master/1010-powerful-integers) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/hamna321/LeetcodeQuestions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1502-construct-k-palindrome-strings](https://github.com/hamna321/LeetcodeQuestions/tree/master/1502-construct-k-palindrome-strings) |
