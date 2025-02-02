@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1010-powerful-integers](https://github.com/hamna321/LeetcodeQuestions/tree/master/1010-powerful-integers) |
 | [1013-fibonacci-number](https://github.com/hamna321/Leetcode-Q-242/tree/master/1013-fibonacci-number) |
 | [2811-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/hamna321/LeetcodeQuestions/tree/master/2811-determine-the-minimum-sum-of-a-k-avoiding-array) |
+| [3199-distribute-candies-among-children-i](https://github.com/hamna321/LeetcodeQuestions/tree/master/3199-distribute-candies-among-children-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1010-powerful-integers](https://github.com/hamna321/LeetcodeQuestions/tree/master/1010-powerful-integers) |
 | [2870-longest-alternating-subarray](https://github.com/hamna321/LeetcodeQuestions/tree/master/2870-longest-alternating-subarray) |
+| [3199-distribute-candies-among-children-i](https://github.com/hamna321/LeetcodeQuestions/tree/master/3199-distribute-candies-among-children-i) |
 ## Concurrency
 |  |
 | ------- |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/hamna321/LeetcodeQuestions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1502-construct-k-palindrome-strings](https://github.com/hamna321/LeetcodeQuestions/tree/master/1502-construct-k-palindrome-strings) |
+## Combinatorics
+|  |
+| ------- |
+| [3199-distribute-candies-among-children-i](https://github.com/hamna321/LeetcodeQuestions/tree/master/3199-distribute-candies-among-children-i) |
 <!---LeetCode Topics End-->
