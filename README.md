@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0443-string-compression](https://github.com/hamna321/Leetcode-Q-242/tree/master/0443-string-compression) |
 | [1502-construct-k-palindrome-strings](https://github.com/hamna321/LeetcodeQuestions/tree/master/1502-construct-k-palindrome-strings) |
+| [2226-rings-and-rods](https://github.com/hamna321/LeetcodeQuestions/tree/master/2226-rings-and-rods) |
 ## Array
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1010-powerful-integers](https://github.com/hamna321/LeetcodeQuestions/tree/master/1010-powerful-integers) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/hamna321/LeetcodeQuestions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1502-construct-k-palindrome-strings](https://github.com/hamna321/LeetcodeQuestions/tree/master/1502-construct-k-palindrome-strings) |
+| [2226-rings-and-rods](https://github.com/hamna321/LeetcodeQuestions/tree/master/2226-rings-and-rods) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/hamna321/LeetcodeQuestions/tree/master/3044-minimum-operations-to-collect-elements) |
 ## Enumeration
 |  |
