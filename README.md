@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-prison-cells-after-n-days](https://github.com/hamna321/LeetcodeQuestions/tree/master/0994-prison-cells-after-n-days) |
 | [1010-powerful-integers](https://github.com/hamna321/LeetcodeQuestions/tree/master/1010-powerful-integers) |
 | [1013-fibonacci-number](https://github.com/hamna321/Leetcode-Q-242/tree/master/1013-fibonacci-number) |
+| [1617-stone-game-iv](https://github.com/hamna321/LeetcodeQuestions/tree/master/1617-stone-game-iv) |
 | [2645-pass-the-pillow](https://github.com/hamna321/LeetcodeQuestions/tree/master/2645-pass-the-pillow) |
 | [2811-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/hamna321/LeetcodeQuestions/tree/master/2811-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [3199-distribute-candies-among-children-i](https://github.com/hamna321/LeetcodeQuestions/tree/master/3199-distribute-candies-among-children-i) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0233-number-of-digit-one](https://github.com/hamna321/Leetcode-Q-242/tree/master/0233-number-of-digit-one) |
 | [1013-fibonacci-number](https://github.com/hamna321/Leetcode-Q-242/tree/master/1013-fibonacci-number) |
+| [1617-stone-game-iv](https://github.com/hamna321/LeetcodeQuestions/tree/master/1617-stone-game-iv) |
 ## Recursion
 |  |
 | ------- |
@@ -109,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2645-pass-the-pillow](https://github.com/hamna321/LeetcodeQuestions/tree/master/2645-pass-the-pillow) |
+## Game Theory
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/hamna321/LeetcodeQuestions/tree/master/1617-stone-game-iv) |
 <!---LeetCode Topics End-->
