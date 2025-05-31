@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/hamna321/Leetcode-Q-242/tree/master/1435-xor-queries-of-a-subarray) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/hamna321/LeetcodeQuestions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/hamna321/LeetcodeQuestions/tree/master/2312-most-frequent-number-following-key-in-an-array) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/hamna321/LeetcodeQuestions/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2705-minimum-impossible-or](https://github.com/hamna321/LeetcodeQuestions/tree/master/2705-minimum-impossible-or) |
 | [2870-longest-alternating-subarray](https://github.com/hamna321/LeetcodeQuestions/tree/master/2870-longest-alternating-subarray) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/hamna321/LeetcodeQuestions/tree/master/3044-minimum-operations-to-collect-elements) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-smallest-range-ii](https://github.com/hamna321/LeetcodeQuestions/tree/master/0946-smallest-range-ii) |
 | [1502-construct-k-palindrome-strings](https://github.com/hamna321/LeetcodeQuestions/tree/master/1502-construct-k-palindrome-strings) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/hamna321/LeetcodeQuestions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/hamna321/LeetcodeQuestions/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2811-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/hamna321/LeetcodeQuestions/tree/master/2811-determine-the-minimum-sum-of-a-k-avoiding-array) |
 ## Sorting
 |  |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-smallest-range-ii](https://github.com/hamna321/LeetcodeQuestions/tree/master/0946-smallest-range-ii) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/hamna321/LeetcodeQuestions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/hamna321/LeetcodeQuestions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/hamna321/LeetcodeQuestions/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 ## Brainteaser
 |  |
 | ------- |
@@ -119,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/hamna321/LeetcodeQuestions/tree/master/1617-stone-game-iv) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/hamna321/LeetcodeQuestions/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 <!---LeetCode Topics End-->
