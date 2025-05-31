@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0443-string-compression](https://github.com/hamna321/Leetcode-Q-242/tree/master/0443-string-compression) |
 | [1502-construct-k-palindrome-strings](https://github.com/hamna321/LeetcodeQuestions/tree/master/1502-construct-k-palindrome-strings) |
+| [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/hamna321/LeetcodeQuestions/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [2226-rings-and-rods](https://github.com/hamna321/LeetcodeQuestions/tree/master/2226-rings-and-rods) |
 ## Array
 |  |
