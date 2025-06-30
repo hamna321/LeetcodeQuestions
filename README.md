@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/hamna321/LeetcodeQuestions/tree/master/1502-construct-k-palindrome-strings) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/hamna321/LeetcodeQuestions/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [2226-rings-and-rods](https://github.com/hamna321/LeetcodeQuestions/tree/master/2226-rings-and-rods) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/hamna321/LeetcodeQuestions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Array
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-rings-and-rods](https://github.com/hamna321/LeetcodeQuestions/tree/master/2226-rings-and-rods) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/hamna321/LeetcodeQuestions/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/hamna321/LeetcodeQuestions/tree/master/3044-minimum-operations-to-collect-elements) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/hamna321/LeetcodeQuestions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Enumeration
 |  |
 | ------- |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/hamna321/LeetcodeQuestions/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+## Sliding Window
+|  |
+| ------- |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/hamna321/LeetcodeQuestions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
