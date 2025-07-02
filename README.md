@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/hamna321/LeetcodeQuestions/tree/master/1502-construct-k-palindrome-strings) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/hamna321/LeetcodeQuestions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/hamna321/LeetcodeQuestions/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/hamna321/LeetcodeQuestions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2226-rings-and-rods](https://github.com/hamna321/LeetcodeQuestions/tree/master/2226-rings-and-rods) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/hamna321/LeetcodeQuestions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Array
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/hamna321/LeetcodeQuestions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2645-pass-the-pillow](https://github.com/hamna321/LeetcodeQuestions/tree/master/2645-pass-the-pillow) |
 ## Game Theory
 |  |
