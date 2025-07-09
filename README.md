@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2705-minimum-impossible-or](https://github.com/hamna321/LeetcodeQuestions/tree/master/2705-minimum-impossible-or) |
 | [2870-longest-alternating-subarray](https://github.com/hamna321/LeetcodeQuestions/tree/master/2870-longest-alternating-subarray) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/hamna321/LeetcodeQuestions/tree/master/3044-minimum-operations-to-collect-elements) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/hamna321/LeetcodeQuestions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/hamna321/LeetcodeQuestions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/hamna321/LeetcodeQuestions/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2811-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/hamna321/LeetcodeQuestions/tree/master/2811-determine-the-minimum-sum-of-a-k-avoiding-array) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/hamna321/LeetcodeQuestions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Sorting
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/hamna321/LeetcodeQuestions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/hamna321/LeetcodeQuestions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## String Matching
 |  |
 | ------- |
